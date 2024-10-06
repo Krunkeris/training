@@ -1,4 +1,4 @@
 const a = "tom";
 
 console.log([..."asd"]);
-console.log("aaaa");
+console.log("aa");
